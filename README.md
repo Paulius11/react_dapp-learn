@@ -1,8 +1,6 @@
 # Web3 + React
 
-
-## Available Scripts
-
+## Notes
 
 ### Console logging
 `web3.eth.getAccounts().then(console.log)`
@@ -14,4 +12,4 @@ Wei -> ETH
 
 # Usefull files
 
-[List of chains](src/utils/chains.js)
+[Chain rpc list](src/utils/chains.js)
