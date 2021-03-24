@@ -14,4 +14,4 @@ Wei -> ETH
 
 # Usefull files
 
-[List of chains](utils/chains.js)
+[List of chains](src/utils/chains.js)
